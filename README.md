@@ -18,7 +18,7 @@ Founder of @ Trillion Techies
 ### Design and Editing Tool I use
 <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-after-effects--v1.png" alt="adobe-after-effects--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" alt="adobe-premiere-pro--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
 #### Game Engine
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/unity.png" alt="unity"/>
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/unity.png" alt="unity"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/unreal-engine.png" alt="unreal-engine"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/blender-3d.png" alt="blender-3d"/>
 
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
