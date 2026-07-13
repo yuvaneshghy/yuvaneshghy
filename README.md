@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋 It's me Yuvanesh G</h1>
 
-<h2 align="center">Founder of @ Trillion Techies</h2>
+[<h2 align="center">Founder of @ Trillion Techies</h2>](https://www.trilliontechies.com/)
 <img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M3MnMyazdvb3p5a3BudjBiaXI0eTF3NXNtcDIxNW5hdmYzdW1jdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
