@@ -1,21 +1,24 @@
-<h1 align="center">Hi 👋, I'm G Yuvanesh</h1>
-<h3 align="center">Passionate About Web development | Game Development & Graphic Designing | Skilled in Video Editing & UI/UX a</h3>
+<h1 align="center">Hi there👋 It's me Yuvanesh G</h1>
 
-- I’m Founder of **Trillion Techies**
+Founder of @ Trillion Techies
+<img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M3MnMyazdvb3p5a3BudjBiaXI0eTF3NXNtcDIxNW5hdmYzdW1jdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+- 🔭 Here's my [portfolio](https://yuvaneshg-908878801.development.catalystserverless.com/app/index.html)                                                 
+- 🌱 I’m currently learning Web Development, UI/UX, Graphic Designer
 
-- 🌱 I’m currently learning **Web Development, UI/UX, Graphic Designer**
+### Social Presence
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+](www.linkedin.com/in/yuvanesh-g-a00a2b302) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/yuvanxsh/?hl=en)
 
-- 👨‍💻 All of my projects are available at [https://yuvaneshg-908878801.development.catalystserverless.com/app/index.html](https://yuvaneshg-908878801.development.catalystserverless.com/app/index.html)
+### Tech Stacks and Tools
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/><img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
 
-- 📫 How to reach me **yuvaneshghy01@gmail.com**
+### Design and Editing Tools I use
+<img width="48" height="48" src="https://img.icons8.com/color/48/adobe-after-effects--v1.png" alt="adobe-after-effects--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" alt="adobe-premiere-pro--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
+#### Game Engine
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/unity.png" alt="unity"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/unreal-engine.png" alt="unreal-engine"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/blender-3d.png" alt="blender-3d"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/yuvanesh-g-a00a2b302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yuvanesh-g-a00a2b302" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/yuvanxsh/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yuvanxsh/?hl=en" height="30" width="40" /></a>
-</p>
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/<yuvanesfyhj>)](https://gfgstatscard.vercel.app/yuvanesfyhj?theme=dark)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvaneshghy&show_icons=true&locale=en" alt="yuvaneshghy" /></p>
+[![Yuvanesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuvaneshghy&custom_border=true)](https://github.com/yuvaneshghy/github-readme-activity-graph)
