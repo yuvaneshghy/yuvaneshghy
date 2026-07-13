@@ -18,6 +18,6 @@ Founder of @ Trillion Techies
 #### Game Engine
 <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/unity.png" alt="unity"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/unreal-engine.png" alt="unreal-engine"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/blender-3d.png" alt="blender-3d"/>
 
-[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/<yuvaneshghy>)](https://gfgstatscard.vercel.app/yuvanesfyhj?theme=dark)
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/<yuvanesfyhj>)](https://gfgstatscard.vercel.app/yuvanesfyhj?theme=dark)
 
 [![Yuvanesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuvaneshghy&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/yuvaneshghy/github-readme-activity-graph)
