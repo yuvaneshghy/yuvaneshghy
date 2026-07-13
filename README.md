@@ -6,7 +6,7 @@ Founder of @ Trillion Techies
 - 🌱 I’m currently learning Web Development, UI/UX, Graphic Designer
 
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/yuvanesh-g-a00a2b302) <br/> [<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-instagram-a-popular-social-networking-service-with-magic-filters-logo-color-tal-revivo.png" alt="external-instagram-a-popular-social-networking-service-with-magic-filters-logo-color-tal-revivo"/>](https://www.instagram.com/yuvanxsh/?hl=en)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/yuvanesh-g-a00a2b302) [<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-instagram-a-popular-social-networking-service-with-magic-filters-logo-color-tal-revivo.png" alt="external-instagram-a-popular-social-networking-service-with-magic-filters-logo-color-tal-revivo"/>](https://www.instagram.com/yuvanxsh/?hl=en)
 
 ## Tech Stacks and Tools
 ### I code in
