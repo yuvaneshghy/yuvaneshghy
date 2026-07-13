@@ -8,12 +8,12 @@ Founder of @ Trillion Techies
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/yuvanesh-g-a00a2b302) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/yuvanxsh/?hl=en)
 
-##Tech Stacks and Tools
+## Tech Stacks and Tools
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 
-###Tech Tools I use
+### Tech Tools I use
 <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo.png" alt="external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-color-tal-revivo"/><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo"/>
 ### Design and Editing Tools I use
 <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-after-effects--v1.png" alt="adobe-after-effects--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" alt="adobe-premiere-pro--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/>
