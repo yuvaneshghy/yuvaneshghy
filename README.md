@@ -5,7 +5,7 @@ Founder of @ Trillion Techies
 - 🔭 Here's my [portfolio](https://yuvaneshg-908878801.development.catalystserverless.com/app/index.html)                                                 
 - 🌱 I’m currently learning Web Development, UI/UX, Graphic Designer
 
-- Social Presence
+###Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 ](www.linkedin.com/in/yuvanesh-g-a00a2b302) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/yuvanxsh/?hl=en)
 
