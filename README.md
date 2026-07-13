@@ -7,7 +7,7 @@ Founder of @ Trillion Techies
 
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-](www.linkedin.com/in/yuvanesh-g-a00a2b302) [<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-instagram-a-popular-social-networking-service-with-magic-filters-logo-color-tal-revivo.png" alt="external-instagram-a-popular-social-networking-service-with-magic-filters-logo-color-tal-revivo"/>](https://www.instagram.com/yuvanxsh/?hl=en)
+](www.linkedin.com/in/yuvanesh-g-a00a2b302) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/yuvanxsh/?hl=en)
 
 ### Tech Stacks and Tools
 ### I code in
