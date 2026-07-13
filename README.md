@@ -20,4 +20,4 @@ Founder of @ Trillion Techies
 
 [![GeeksForGeeks stats](https://gfgstatscard.vercel.app/<yuvanesfyhj>)](https://gfgstatscard.vercel.app/yuvanesfyhj?theme=dark)
 
-[![Yuvanesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuvaneshghy&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/yuvaneshghy/github-readme-activity-graph)
+[![Yuvanesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuvaneshghy&custom_border=true)](https://github.com/yuvaneshghy/github-readme-activity-graph)
