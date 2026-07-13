@@ -2,7 +2,8 @@
 
 <h2 align="center">Founder of @ Trillion Techies</h2>
 <img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M3MnMyazdvb3p5a3BudjBiaXI0eTF3NXNtcDIxNW5hdmYzdW1jdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-- 🔭 Here's my [portfolio](https://yuvaneshg-908878801.development.catalystserverless.com/app/index.html)                                                 
+
+- 🔭 Here's my [portfolio]([https://hareesh.web.app/](https://yuvaneshg-908878801.development.catalystserverless.com/app/index.html))                                                
 - 🌱 I’m currently learning Web Development, UI/UX, Graphic Designer
 
 ### Social Presence
